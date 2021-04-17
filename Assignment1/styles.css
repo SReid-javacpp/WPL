@@ -1,0 +1,65 @@
+.mission {
+    font-size: xx-large; 
+    font-style: italic;
+    font-weight: bold;
+    font-family: "Garamond", "Century Gothic", serif;
+}
+
+
+.item {
+  color: #64d1f9  !important;
+}
+
+.item1{
+  width: 16rem;
+}
+
+.item2{
+  width: 100%;
+  color: #64d1f9;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.footer p {  
+    margin-bottom: 0; 
+ }
+
+.pzeropad {
+    margin: 0;
+    padding: 0;
+}
+
+
+.btn-pic {
+  background: #547af8 !important; 
+  color: white !important;
+}
+.btn-pic1 {
+  background: #ac31a1 !important; 
+  color: white !important;
+}
+.btn-pic2 {
+  background: #fc7df1 !important; 
+  color: white !important;
+}
+.btn-pic3 {
+  background: #2b06cf !important; 
+  color: white !important;
+}
+.btn-pic4 {
+  background: #c70101 !important; 
+  color: white !important;
+}
+
+.ftr{
+  background: #2c18db ; 
+  color: white;
+  
+}
+.item4{
+  padding: 6px  !important;
+  font-size: 18px  !important;
+  text-align: center  !important;
+  font-size: x-small !important;
+}
+

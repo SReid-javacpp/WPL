@@ -1,0 +1,44 @@
+
+.done{
+	text-decoration: line-through;
+}
+
+ul {
+	list-style-type: none;
+	list-style-position:inside;
+	margin:0;
+	padding:0;
+    list-style: none;
+} 
+
+li {
+	list-style-type: none;
+	list-style-position:inside;
+	font-size: 20px;
+	margin:0;
+	padding:0;
+    list-style: none;
+}
+
+li:nth-child(even) { background: rgb(235, 235, 235); }
+
+
+span {
+	display: inline-block;
+    background: rgb(218, 17, 17);
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	color:rgb(243, 243, 243); 
+}
+
+nav {
+	width: 100%;
+}
+input {
+	background: rgb(235, 235, 235);
+}
+
+input {
+    outline: none;
+}
